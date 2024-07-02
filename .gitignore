@@ -1,0 +1,8 @@
+#ignore environment variables
+.env
+
+#ignore virtual environment
+ap/
+
+#ignore database
+*.sqlite3
